@@ -71,7 +71,7 @@ GitHub 포크 연습용 레포지토리에 오신 것을 환영합니다! 이 �
 
 - [GitHub 문서: 레포지토리 포크하기](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 - [GitHub 문서: 레포지토리 클론하기](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-- [GitHub 문서: 풀 리퀘스트 생성하기](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes/creating-a-pull-request)
+- [GitHub 문서: 풀 리퀘스트 생성하기](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 
 ---
